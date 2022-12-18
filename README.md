@@ -43,7 +43,7 @@ To-do list:
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Aurelien Geron "Hands-on Machine Learning" 2nd edition
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by rdt333@gmail.com - feel free to contact me!
