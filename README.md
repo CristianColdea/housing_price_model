@@ -21,7 +21,7 @@ Add more general information about project. What the purpose of the project is? 
 * Tech 1 - Python 3
 * Tech 2 - Pandas
 * Tech 3 - Numpy
-* Tech 4
+* Tech 4 - scikit-learn
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
