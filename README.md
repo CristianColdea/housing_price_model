@@ -38,8 +38,7 @@ List of features ready and TODOs for future development
 
 To-do list:
 * ~~Setting up the environment.~~ 
-* Wow improvement to be done 2
-
+* Complete the notebook
 ## Status
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
