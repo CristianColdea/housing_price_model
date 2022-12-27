@@ -24,11 +24,14 @@ Add more general information about project. What the purpose of the project is? 
 * Tech 4 - scikit-learn
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Keep the scripts and files in the same folder
 
 ## Code Examples
 Show examples of usage:
-`put-your-code-here`
+* Import the needed library
+```
+import numpy as np
+```
 
 ## Features
 List of features ready and TODOs for future development
